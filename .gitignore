@@ -1,8 +1,12 @@
 /env
 .env
+/__pycache__
 
 codeforces2.py
 codeforces.py
 # kattis.py
 leetcode.py
 test.txt
+
+#pylintrc
+.pylintrc
